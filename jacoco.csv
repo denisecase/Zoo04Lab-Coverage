@@ -11,7 +11,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,Gerenuk,74,25,2,0,18,7,5,4,4,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,ZooBuildCodeIssues,179,0,0,0,44,0,19,0,19,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,AspGroup,3,51,0,0,1,15,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,YukonMooseGroup,54,0,0,0,16,0,4,0,4,0
-Zoo04Lab,edu.nwmissouri.zoo04lab,Kangaroo.Calender,21,0,0,0,4,0,1,0,1,0
+Zoo04Lab,edu.nwmissouri.zoo04lab,Kangaroo.Calender,0,21,0,0,0,4,0,1,0,1
 Zoo04Lab,edu.nwmissouri.zoo04lab,WalrusGroup.Donate,0,27,0,0,0,5,0,1,0,1
 Zoo04Lab,edu.nwmissouri.zoo04lab,MightyLion,43,25,0,0,10,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,HippopotamusGroup,3,49,0,0,1,14,1,3,1,3
@@ -22,7 +22,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,Brachiosaurus,59,17,0,0,16,7,3,4,3,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,AardvarkGroup,3,51,0,0,1,15,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,ElephantBirdGroup,3,51,0,0,1,15,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,ShoebillGroup,3,56,0,2,1,14,1,3,1,2
-Zoo04Lab,edu.nwmissouri.zoo04lab,KangarooGroup,31,34,2,0,11,7,2,2,1,2
+Zoo04Lab,edu.nwmissouri.zoo04lab,KangarooGroup,3,78,0,2,1,21,1,3,1,2
 Zoo04Lab,edu.nwmissouri.zoo04lab,HarpSealGroup,17,76,4,1,7,25,5,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,CongoLionGroup,61,0,0,0,18,0,4,0,4,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,DeerGroup,54,0,0,0,16,0,4,0,4,0
@@ -58,7 +58,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,Asp,0,20,0,0,0,6,0,3,0,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,Cow,35,57,4,2,13,20,6,8,2,8
 Zoo04Lab,edu.nwmissouri.zoo04lab,Elephant,47,25,0,0,11,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,GiraffeGroup,3,56,0,2,1,14,1,3,1,2
-Zoo04Lab,edu.nwmissouri.zoo04lab,Bearcat,28,34,0,0,11,9,2,5,2,5
+Zoo04Lab,edu.nwmissouri.zoo04lab,Bearcat,14,48,0,0,6,14,1,6,1,6
 Zoo04Lab,edu.nwmissouri.zoo04lab,Cow.EnumDirections,0,27,0,0,0,2,0,1,0,1
 Zoo04Lab,edu.nwmissouri.zoo04lab,SiberianTiger.car,21,0,0,0,4,0,1,0,1,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,BlackPanther.BIRD,21,0,0,0,4,0,1,0,1,0
@@ -68,7 +68,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,AnimalLegs,42,0,0,0,9,0,3,0,3,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,Colors,21,0,0,0,4,0,1,0,1,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,Stag,45,25,0,0,11,11,2,6,2,6
 Zoo04Lab,edu.nwmissouri.zoo04lab,Arvicolinae,14,52,0,0,6,14,1,6,1,6
-Zoo04Lab,edu.nwmissouri.zoo04lab,BearcatGroup,83,0,2,0,21,0,4,0,3,0
+Zoo04Lab,edu.nwmissouri.zoo04lab,BearcatGroup,3,76,0,2,1,19,1,3,1,2
 Zoo04Lab,edu.nwmissouri.zoo04lab,Koala,36,20,0,0,13,6,3,3,3,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,Panthera,39,48,0,0,14,12,3,5,3,5
 Zoo04Lab,edu.nwmissouri.zoo04lab,CatGroup,3,58,0,0,1,18,1,3,1,3
@@ -88,7 +88,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,XraytetraGroup,3,51,0,0,1,15,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,Cat.Animal,21,0,0,0,4,0,1,0,1,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,Giraffe,43,25,0,0,10,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,StagGroup,3,56,0,2,1,14,1,3,1,2
-Zoo04Lab,edu.nwmissouri.zoo04lab,Kangaroo,30,38,0,0,12,11,2,6,2,6
+Zoo04Lab,edu.nwmissouri.zoo04lab,Kangaroo,16,52,0,0,7,16,1,7,1,7
 Zoo04Lab,edu.nwmissouri.zoo04lab,SuperPlanet,33,0,0,0,6,0,1,0,1,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,Okapi,53,25,0,0,14,7,3,4,3,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,BengalTiger,16,0,0,0,8,0,4,0,4,0
@@ -103,7 +103,7 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,FerociousTigerGroup,32,30,0,0,14,6,3,1,3,1
 Zoo04Lab,edu.nwmissouri.zoo04lab,BlackJaguar,62,0,0,0,21,0,7,0,7,0
 Zoo04Lab,edu.nwmissouri.zoo04lab,FerociousTiger,38,36,0,0,14,13,2,7,2,7
 Zoo04Lab,edu.nwmissouri.zoo04lab,PandaGroup,3,63,0,0,1,18,1,3,1,3
-Zoo04Lab,edu.nwmissouri.zoo04lab,DalmatianGroup,54,0,0,0,16,0,4,0,4,0
+Zoo04Lab,edu.nwmissouri.zoo04lab,DalmatianGroup,3,55,0,0,1,17,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,Glyptodon,55,25,0,0,14,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,HarpSeal,0,78,0,0,0,26,0,9,0,9
 Zoo04Lab,edu.nwmissouri.zoo04lab,ZooApp,478,0,69,0,259,0,66,0,2,0
@@ -147,9 +147,9 @@ Zoo04Lab,edu.nwmissouri.zoo04lab,Duck,18,36,0,0,7,14,1,6,1,6
 Zoo04Lab,edu.nwmissouri.zoo04lab,PolarBear,47,25,0,0,11,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,TauntingTiger,43,28,2,0,13,12,2,7,1,7
 Zoo04Lab,edu.nwmissouri.zoo04lab,Stag.Months,75,0,0,0,13,0,1,0,1,0
-Zoo04Lab,edu.nwmissouri.zoo04lab,Dalmatian,52,0,0,0,21,0,7,0,7,0
+Zoo04Lab,edu.nwmissouri.zoo04lab,Dalmatian,18,34,0,0,7,14,1,6,1,6
 Zoo04Lab,edu.nwmissouri.zoo04lab,Rabbit,0,97,0,2,0,28,0,10,0,9
-Zoo04Lab,edu.nwmissouri.zoo04lab,Bearcat.occurFrom,21,0,0,0,4,0,1,0,1,0
+Zoo04Lab,edu.nwmissouri.zoo04lab,Bearcat.occurFrom,0,21,0,0,0,4,0,1,0,1
 Zoo04Lab,edu.nwmissouri.zoo04lab,BlackPantherGroup,3,51,0,0,1,15,1,3,1,3
 Zoo04Lab,edu.nwmissouri.zoo04lab,Hippopotamus,43,17,0,0,10,7,2,4,2,4
 Zoo04Lab,edu.nwmissouri.zoo04lab,CongoLion.COLOUR,21,0,0,0,4,0,1,0,1,0

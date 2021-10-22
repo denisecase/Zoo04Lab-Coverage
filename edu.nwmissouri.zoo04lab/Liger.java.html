@@ -7,7 +7,7 @@ package edu.nwmissouri.zoo04lab;
 
 /**
  *
- * @author RevanthPagilla
+ * @author Revanth Pagilla
  */
 public class Liger extends Animal {
     /**
@@ -21,12 +21,12 @@ public class Liger extends Animal {
 
     @Override
     public void move() {
-<span class="fc" id="L24">        System.out.println(&quot;I will climb trees &quot;);</span>
+<span class="fc" id="L24">        System.out.println(&quot;When I move, I walk, walk, walk.&quot;);</span>
 <span class="fc" id="L25">    }</span>
 
     @Override
     public void speak() {
-<span class="fc" id="L29">         System.out.printf(&quot;I roar very loudly! \n&quot;, this.name);</span>
+<span class="fc" id="L29">         System.out.printf(&quot;I roar loud. I'm an Liger! \n&quot;, this.name);</span>
 <span class="fc" id="L30">    }</span>
     
     
@@ -35,24 +35,21 @@ public class Liger extends Animal {
 <span class="fc" id="L35">    }</span>
      
     /**
-     * Custom Liger function - your class must use a unique function name
-     * unique first parameter identifier unique second parameter identifier do
-     * something creative
      *
      * @param valueOne double input
      * @param valueTwo int input
      * @return double sum
      */
     public double getLigerAddition(double valueOne, int valueTwo) {
-<span class="fc" id="L47">        return valueOne + valueTwo;</span>
+<span class="fc" id="L44">        return valueOne + valueTwo;</span>
     }
 
     public static void main(String[] args) {
-<span class="nc" id="L51">        var a = new Liger(&quot;Tester&quot;);</span>
-<span class="nc" id="L52">        a.speak();</span>
-<span class="nc" id="L53">        a.move();</span>
-<span class="nc" id="L54">        a.eat();</span>
-<span class="nc" id="L55">    }</span>
+<span class="nc" id="L48">        var a = new Liger(&quot;Tester&quot;);</span>
+<span class="nc" id="L49">        a.speak();</span>
+<span class="nc" id="L50">        a.move();</span>
+<span class="nc" id="L51">        a.eat();</span>
+<span class="nc" id="L52">    }</span>
 
 }
 
