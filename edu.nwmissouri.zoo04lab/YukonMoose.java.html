@@ -12,46 +12,56 @@ public class YukonMoose extends Animal{
 <span class="nc" id="L12">        throw new UnsupportedOperationException(&quot;Not supported yet.&quot;); //To change body of generated methods, choose Tools | Templates.</span>
     }
 
+    @Override
+    public void speak() {
+<span class="nc" id="L17">        throw new UnsupportedOperationException(&quot;Not supported yet.&quot;); //To change body of generated methods, choose Tools | Templates.</span>
+    }
+
+    @Override
+    public void move() {
+<span class="nc" id="L22">        throw new UnsupportedOperationException(&quot;Not supported yet.&quot;); //To change body of generated methods, choose Tools | Templates.</span>
+    }
+
    
     /**
      * Constructor
      * @param name 
      */
-<span class="nc" id="L20">    enum MONTH</span>
+<span class="nc" id="L30">    enum MONTH</span>
     {
-<span class="nc" id="L22">        JULY,</span>
-<span class="nc" id="L23">        AUGUST,</span>
-<span class="nc" id="L24">        SEPTEMBER</span>
+<span class="nc" id="L32">        JULY,</span>
+<span class="nc" id="L33">        AUGUST,</span>
+<span class="nc" id="L34">        SEPTEMBER</span>
     }
         public YukonMoose(String name){
-<span class="nc" id="L27">        super(name);</span>
-<span class="nc" id="L28">    }</span>
+<span class="nc" id="L37">        super(name);</span>
+<span class="nc" id="L38">    }</span>
     public void size(){
-<span class="nc" id="L30">        System.out.println(&quot; I'm 6 feet tall....&quot;+this.name);</span>
-<span class="nc" id="L31">    }</span>
+<span class="nc" id="L40">        System.out.println(&quot; I'm 6 feet tall....&quot;+this.name);</span>
+<span class="nc" id="L41">    }</span>
     public void survive(){
-<span class="nc" id="L33">        System.out.println(&quot; I can survive under 80 degree celsius&quot;);</span>
-<span class="nc" id="L34">    }</span>
+<span class="nc" id="L43">        System.out.println(&quot; I can survive under 80 degree celsius&quot;);</span>
+<span class="nc" id="L44">    }</span>
     public void behaviour(){
-<span class="nc" id="L36">        System.out.println(&quot; I can be very aggresive&quot;);</span>
-<span class="nc" id="L37">    }</span>
+<span class="nc" id="L46">        System.out.println(&quot; I can be very aggresive&quot;);</span>
+<span class="nc" id="L47">    }</span>
     public float height(int feet, float inches){
-<span class="nc" id="L39">        return feet+inches;</span>
+<span class="nc" id="L49">        return feet+inches;</span>
     }
     public void tHeight(){
-<span class="nc" id="L42">        System.out.println(&quot;YukonMoose height:&quot;+ height(7, (float) 0.6));</span>
-<span class="nc" id="L43">    }</span>
+<span class="nc" id="L52">        System.out.println(&quot;YukonMoose height:&quot;+ height(7, (float) 0.6));</span>
+<span class="nc" id="L53">    }</span>
     public static void main(String[] args){
-<span class="nc" id="L45">        YukonMoose m=new YukonMoose(&quot;Alaskan&quot;);</span>
-<span class="nc" id="L46">        m.height(7, (float) 0.6);</span>
-<span class="nc" id="L47">        m.tHeight();</span>
-<span class="nc" id="L48">        m.behaviour();</span>
-<span class="nc" id="L49">        m.size();</span>
-<span class="nc" id="L50">        m.survive();</span>
-<span class="nc" id="L51">        MONTH m1=MONTH.JULY;</span>
-<span class="nc" id="L52">        MONTH m2=MONTH.AUGUST;</span>
-<span class="nc" id="L53">        MONTH m3=MONTH.SEPTEMBER;</span>
-<span class="nc" id="L54">        System.out.println(&quot;months:&quot;+m1+&quot;\n&quot;+m2+&quot;\n&quot;+m3);</span>
-<span class="nc" id="L55">    }</span>
+<span class="nc" id="L55">        YukonMoose m=new YukonMoose(&quot;Alaskan&quot;);</span>
+<span class="nc" id="L56">        m.height(7, (float) 0.6);</span>
+<span class="nc" id="L57">        m.tHeight();</span>
+<span class="nc" id="L58">        m.behaviour();</span>
+<span class="nc" id="L59">        m.size();</span>
+<span class="nc" id="L60">        m.survive();</span>
+<span class="nc" id="L61">        MONTH m1=MONTH.JULY;</span>
+<span class="nc" id="L62">        MONTH m2=MONTH.AUGUST;</span>
+<span class="nc" id="L63">        MONTH m3=MONTH.SEPTEMBER;</span>
+<span class="nc" id="L64">        System.out.println(&quot;months:&quot;+m1+&quot;\n&quot;+m2+&quot;\n&quot;+m3);</span>
+<span class="nc" id="L65">    }</span>
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>

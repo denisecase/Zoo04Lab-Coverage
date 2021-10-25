@@ -33,18 +33,14 @@ public abstract class Animal {
 <span class="fc" id="L33">    }</span>
 
     /**
-     * speak() - general method for animal utterance
+     * abstract speak() - has no implementation
      */
-    public void speak() {
-<span class="nc" id="L39">        System.out.println(&quot;Generic animal sound&quot;);</span>
-<span class="nc" id="L40">    }</span>
+    public abstract void speak();
 
     /**
-     * move() - general method for animal movement
+     * abstract move() - has no implementation
      */
-    public void move() {
-<span class="nc" id="L46">        System.out.println(&quot;Generic animal movement&quot;);</span>
-<span class="nc" id="L47">    }</span>
+    public abstract void move();
 
     /**
      * Get animal's name.
@@ -52,7 +48,7 @@ public abstract class Animal {
      * @return name
      */
     public String getName() {
-<span class="fc" id="L55">        return name;</span>
+<span class="fc" id="L51">        return name;</span>
     }
 
     /**
@@ -62,7 +58,7 @@ public abstract class Animal {
      * @return the gender
      */
     public AnimalGender getGender() {
-<span class="nc" id="L65">        return gender;</span>
+<span class="nc" id="L61">        return gender;</span>
     }
 
     /**
@@ -72,8 +68,8 @@ public abstract class Animal {
      * @param gender the gender to set
      */
     public void setGender(AnimalGender gender) {
-<span class="nc" id="L75">        this.gender = gender;</span>
-<span class="nc" id="L76">    }</span>
+<span class="nc" id="L71">        this.gender = gender;</span>
+<span class="nc" id="L72">    }</span>
 
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>
